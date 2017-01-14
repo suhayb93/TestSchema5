@@ -1,0 +1,4 @@
+CREATE TABLE suhaybtale (
+  "ID" NUMBER(10),
+  "NAME" VARCHAR2(100 BYTE)
+);

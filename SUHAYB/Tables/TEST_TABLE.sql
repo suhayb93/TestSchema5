@@ -1,0 +1,5 @@
+CREATE TABLE test_table (
+  "ID" VARCHAR2(200 BYTE),
+  fname VARCHAR2(100 BYTE),
+  lname VARCHAR2(100 BYTE)
+);
